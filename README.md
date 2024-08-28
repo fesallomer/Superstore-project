@@ -50,4 +50,7 @@ The **Superstore Sales Dashboard** provides a comprehensive view of key sales me
 6. **Maximize Profit Throughout the Year:**
    - Analyze and replicate successful strategies from June and December in other months.
 
+  **Data used for this project:**
+  [GlobalSuperstore.csv](https://github.com/user-attachments/files/16781432/GlobalSuperstore.csv)
+
 
