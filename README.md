@@ -1,6 +1,6 @@
 # Superstore Sales project
 ![Screenshot 2024-08-28 122936](https://github.com/user-attachments/assets/f9c67d53-7462-4794-96c4-ef46ffde4424)
-https://drive.google.com/file/d/1QDnVyON9Qh1RVnV7kfpDnsNWXCU-5-MX/view?usp=sharing
+[https://drive.google.com/file/d/1QDnVyON9Qh1RVnV7kfpDnsNWXCU-5-MX/view?usp=sharing](https://drive.google.com/drive/folders/1HtAS-0G_tDSo_vYouOz3tCP-W4etHwrq?usp=sharing)
 
 ## Project Overview
 The **Superstore Sales Dashboard** provides a comprehensive view of key sales metrics across various regions, segments, and timeframes. This dashboard is designed to help the business understand customer behavior, identify sales trends, and optimize profitability. The insights derived from this dashboard can be used to make strategic decisions that drive business growth.
